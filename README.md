@@ -64,7 +64,7 @@ publishes; the checksum table above settles whether a file is the real build.
 - Users checking that an installer is the published one before running it.
 - Readers who want the guide set without reading the application source.
 
-## Start here
+## Start here:
 
 - [XELIS Wallet for Windows: download, install and first launch](https://github.com/xelis-inc/xelis-wallet-setup/blob/main/xelis-wallet-windows-download-install.md) — install the 64-bit build, clear SmartScreen and open your first wallet.
 - [XELIS Wallet backup: seed phrase and keys file](https://github.com/xelis-inc/xelis-wallet-setup/blob/main/xelis-wallet-backup-seed-phrase-keys-file.md) — capture all 25 words once, store them offline and test the copy.
